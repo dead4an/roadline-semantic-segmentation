@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 1607526868,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:24:30.954Z",
+            "updatedAt": "2024-11-08T19:24:34.113Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1125,
+                        693
+                    ],
+                    [
+                        1284,
+                        820
+                    ],
+                    [
+                        1343,
+                        818
+                    ],
+                    [
+                        1129,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

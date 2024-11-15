@@ -1,0 +1,637 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 1607526517,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:35:53.934Z",
+            "updatedAt": "2024-11-08T19:35:57.106Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        803
+                    ],
+                    [
+                        722,
+                        807
+                    ],
+                    [
+                        1010,
+                        660
+                    ],
+                    [
+                        959,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526518,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:35:57.901Z",
+            "updatedAt": "2024-11-08T19:35:57.901Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1046,
+                        645
+                    ],
+                    [
+                        1364,
+                        823
+                    ],
+                    [
+                        1425,
+                        815
+                    ],
+                    [
+                        1091,
+                        646
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526519,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:02.699Z",
+            "updatedAt": "2024-11-08T19:36:05.895Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        816
+                    ],
+                    [
+                        588,
+                        807
+                    ],
+                    [
+                        1209,
+                        543
+                    ],
+                    [
+                        1206,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526520,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:05.701Z",
+            "updatedAt": "2024-11-08T19:36:08.882Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1019,
+                        628
+                    ],
+                    [
+                        1070,
+                        634
+                    ],
+                    [
+                        1178,
+                        575
+                    ],
+                    [
+                        1156,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526521,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:09.205Z",
+            "updatedAt": "2024-11-08T19:36:09.205Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        921,
+                        519
+                    ],
+                    [
+                        934,
+                        523
+                    ],
+                    [
+                        951,
+                        516
+                    ],
+                    [
+                        948,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526522,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:11.149Z",
+            "updatedAt": "2024-11-08T19:36:11.149Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        964,
+                        512
+                    ],
+                    [
+                        969,
+                        515
+                    ],
+                    [
+                        995,
+                        512
+                    ],
+                    [
+                        992,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526523,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:13.488Z",
+            "updatedAt": "2024-11-08T19:36:16.675Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1002,
+                        508
+                    ],
+                    [
+                        1006,
+                        514
+                    ],
+                    [
+                        1032,
+                        508
+                    ],
+                    [
+                        1032,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526524,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:15.586Z",
+            "updatedAt": "2024-11-08T19:36:18.778Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1039,
+                        504
+                    ],
+                    [
+                        1041,
+                        506
+                    ],
+                    [
+                        1065,
+                        504
+                    ],
+                    [
+                        1064,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526525,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:17.500Z",
+            "updatedAt": "2024-11-08T19:36:20.752Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1071,
+                        501
+                    ],
+                    [
+                        1073,
+                        503
+                    ],
+                    [
+                        1097,
+                        500
+                    ],
+                    [
+                        1095,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526526,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:19.765Z",
+            "updatedAt": "2024-11-08T19:36:22.911Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1103,
+                        497
+                    ],
+                    [
+                        1106,
+                        501
+                    ],
+                    [
+                        1122,
+                        498
+                    ],
+                    [
+                        1121,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526527,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:25.092Z",
+            "updatedAt": "2024-11-08T19:36:28.257Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        687,
+                        505
+                    ],
+                    [
+                        693,
+                        510
+                    ],
+                    [
+                        720,
+                        506
+                    ],
+                    [
+                        720,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526528,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:27.484Z",
+            "updatedAt": "2024-11-08T19:36:30.683Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        899,
+                        487
+                    ],
+                    [
+                        905,
+                        492
+                    ],
+                    [
+                        916,
+                        490
+                    ],
+                    [
+                        917,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526529,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:29.378Z",
+            "updatedAt": "2024-11-08T19:36:29.378Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        932,
+                        486
+                    ],
+                    [
+                        935,
+                        489
+                    ],
+                    [
+                        956,
+                        486
+                    ],
+                    [
+                        955,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526530,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:31.123Z",
+            "updatedAt": "2024-11-08T19:36:34.389Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        966,
+                        483
+                    ],
+                    [
+                        968,
+                        485
+                    ],
+                    [
+                        981,
+                        485
+                    ],
+                    [
+                        984,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526531,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:32.769Z",
+            "updatedAt": "2024-11-08T19:36:35.915Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        482
+                    ],
+                    [
+                        994,
+                        483
+                    ],
+                    [
+                        1011,
+                        482
+                    ],
+                    [
+                        1011,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526532,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:37.517Z",
+            "updatedAt": "2024-11-08T19:36:40.740Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        501
+                    ],
+                    [
+                        485,
+                        497
+                    ],
+                    [
+                        481,
+                        495
+                    ],
+                    [
+                        456,
+                        498
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526533,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:40.266Z",
+            "updatedAt": "2024-11-08T19:36:43.432Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        494
+                    ],
+                    [
+                        505,
+                        496
+                    ],
+                    [
+                        529,
+                        495
+                    ],
+                    [
+                        529,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526534,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:42.496Z",
+            "updatedAt": "2024-11-08T19:36:45.664Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        490
+                    ],
+                    [
+                        555,
+                        494
+                    ],
+                    [
+                        583,
+                        492
+                    ],
+                    [
+                        583,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607526535,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T19:36:44.386Z",
+            "updatedAt": "2024-11-08T19:36:47.562Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        487
+                    ],
+                    [
+                        612,
+                        491
+                    ],
+                    [
+                        624,
+                        489
+                    ],
+                    [
+                        624,
+                        487
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

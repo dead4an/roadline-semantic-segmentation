@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 1607527184,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T18:59:51.447Z",
+            "updatedAt": "2024-11-08T18:59:51.447Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        958,
+                        638
+                    ],
+                    [
+                        975,
+                        642
+                    ],
+                    [
+                        925,
+                        811
+                    ],
+                    [
+                        888,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1607527185,
+            "classId": 13448833,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "dead4an",
+            "createdAt": "2024-11-08T18:59:56.193Z",
+            "updatedAt": "2024-11-08T18:59:59.343Z",
+            "tags": [],
+            "classTitle": "road_mark",
+            "points": {
+                "exterior": [
+                    [
+                        1005,
+                        527
+                    ],
+                    [
+                        1018,
+                        525
+                    ],
+                    [
+                        1033,
+                        464
+                    ],
+                    [
+                        1026,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
